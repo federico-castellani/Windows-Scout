@@ -7,14 +7,14 @@ import os
 import json
 from datetime import datetime
 import tkinter as tk
-from tkinter import messagebox  # <-- FIX: import messagebox correctly
+from tkinter import messagebox
 import sys
 import winreg
 
 CONFIG_FILE = os.path.expanduser("~\\AppData\\Local\\Temp\\nightscout_tray_config.json")
 CACHE_FILE = os.path.expanduser("~\\AppData\\Local\\Temp\\nightscout_tray_cache.json")
-CHECK_INTERVAL = 30  # seconds (for more frequent, lightweight polling)
-API_PATH = "/api/v1/entries.json"  # fallback to entries.json, as your status.json does not have glucose!
+CHECK_INTERVAL = 30
+API_PATH = "/api/v1/entries.json"
 APP_ICON_FILE = "nightscout.ico"
 
 def resource_path(relative_path):
