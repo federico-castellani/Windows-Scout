@@ -41,7 +41,7 @@ python nightscout.py
 
 ### EXE
 
-Double-click the downloaded `NightscoutTray.exe` file.
+Double-click the downloaded `nightscout.exe` file.
 
 - The tray icon will appear. Right-click for menu options:
   - **Configure**: Set Nightscout address and token.
@@ -69,7 +69,7 @@ Settings are saved to your user temp folder.
 
 ## License
 
-MIT License
+[MIT License](https://github.com/federico-castellani/Windows-Scout/blob/main/LICENSE)
 
 ## Credits
 
