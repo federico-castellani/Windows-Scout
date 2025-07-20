@@ -75,4 +75,3 @@ Settings are saved to your user temp folder.
 
 - [Nightscout Project](https://www.nightscout.info/)
 - [pystray](https://github.com/moses-palmer/pystray)
-- [Pillow](https://python-pillow.org/)
