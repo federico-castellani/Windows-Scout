@@ -26,7 +26,7 @@ A simple Windows tray application to display your latest Nightscout glucose read
 
 ### For EXE release
 
-- Download the `.exe` file from [Releases](./releases).
+- Download the `.exe` file from [Releases](https://github.com/federico-castellani/Windows-Scout/releases).
 - No Python required.
 
 ## Usage
